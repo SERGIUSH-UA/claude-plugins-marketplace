@@ -5,13 +5,12 @@
   },
   "metadata": {
     "description": "Custom plugins for Claude Code",
-    "version": "1.0.0",
-    "pluginRoot": "./plugins"
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "bsl-lsp",
-      "source": "./bsl-lsp",
+      "source": "./plugins/bsl-lsp",
       "description": "LSP support for 1C:Enterprise 8 (BSL) and OneScript"
     }
   ]
