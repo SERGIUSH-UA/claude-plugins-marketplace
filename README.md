@@ -6,10 +6,20 @@ Custom plugins for Claude Code by SERGIUSH-UA.
 
 ```bash
 # Add marketplace
-claude marketplace add SERGIUSH-UA/claude-plugins-marketplace
+claude plugin marketplace add SERGIUSH-UA/claude-plugins-marketplace
 
 # Install plugin
 claude plugin install bsl-lsp@sergiush-ua-plugins
+```
+
+## Update
+
+```bash
+# Update marketplace
+claude plugin marketplace update sergiush-ua-plugins
+
+# Update plugin
+claude plugin update bsl-lsp
 ```
 
 ## Available Plugins
