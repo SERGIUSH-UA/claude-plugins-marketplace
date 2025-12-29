@@ -1,0 +1,23 @@
+{
+  "bsl": {
+    "command": "java",
+    "args": [
+      "-Xmx2g",
+      "-jar",
+      "${CLAUDE_PLUGIN_ROOT}/bin/bsl-language-server.jar"
+    ],
+    "extensionToLanguage": {
+      ".bsl": "bsl",
+      ".os": "os"
+    },
+    "transport": "stdio",
+    "initializationOptions": {
+      "language": "en"
+    },
+    "settings": {},
+    "startupTimeout": 15000,
+    "shutdownTimeout": 5000,
+    "restartOnCrash": true,
+    "maxRestarts": 3
+  }
+}

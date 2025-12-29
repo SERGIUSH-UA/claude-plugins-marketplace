@@ -1,0 +1,6 @@
+# Large binary files
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db

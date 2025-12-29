@@ -1,0 +1,7 @@
+{
+  "name": "bsl-lsp",
+  "description": "LSP support for 1C:Enterprise 8 (BSL) and OneScript",
+  "version": "1.0.0",
+  "author": "alter",
+  "repository": "https://github.com/1c-syntax/bsl-language-server"
+}
