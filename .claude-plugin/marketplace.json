@@ -1,0 +1,12 @@
+{
+  "name": "SERGIUSH-UA Plugins",
+  "description": "Custom plugins for Claude Code",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "bsl-lsp",
+      "path": "plugins/bsl-lsp",
+      "description": "LSP support for 1C:Enterprise 8 (BSL) and OneScript"
+    }
+  ]
+}
