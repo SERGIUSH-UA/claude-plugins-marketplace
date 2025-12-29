@@ -1,6 +1,6 @@
 {
   "bsl": {
-    "command": "C:/Program Files/BellSoft/LibericaJDK-21/bin/java.exe",
+    "command": "java",
     "args": [
       "-Xmx2g",
       "-jar",
