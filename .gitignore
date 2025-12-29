@@ -1,3 +1,6 @@
+# Large binary files (download separately)
+*.jar
+
 # OS files
 .DS_Store
 Thumbs.db

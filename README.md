@@ -48,7 +48,13 @@ LSP support for 1C:Enterprise 8 (BSL) and OneScript.
 
 **Post-install setup:**
 
-Download BSL Language Server JAR from [releases](https://github.com/1c-syntax/bsl-language-server/releases) and place it in the plugin's `bin/` directory.
+1. Download `bsl-language-server.jar` from [releases](https://github.com/1c-syntax/bsl-language-server/releases)
+2. Find plugin cache directory:
+   ```
+   ~/.claude/plugins/cache/sergiush-ua-plugins/bsl-lsp/1.0.0/bin/
+   ```
+3. Place JAR file there
+4. Restart Claude Code
 
 ## Resources
 
